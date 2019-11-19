@@ -1,8 +1,8 @@
-![](https://task-force-wolf.de/styles/elegance_ed/theme/images/logo_neu.png)
-
-# Task Force Wolf Missions Template
+# Task Force 133 Missions Template
 
 Willkommen beim TFW Missions Template.
+
+Dieses Repo ist ein Fork vom originalen TFW-Template.
 
 Die Absicht dieses Framwork ist es denn Missionsbau zu vereinfachen und zu beschleunigen ohne abstriche mit der Qualität zu machen.
 Und das ganze Open Source das heisst jeder kann es verwenden und modifizieren.
